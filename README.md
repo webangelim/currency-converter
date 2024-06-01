@@ -1,4 +1,4 @@
-# Currency Converter - by Angelim
+# Currency Converter
 
 Este é um projeto de conversor de moedas que utiliza a API de taxas de câmbio `ExchangeRate-API` para obter taxas de conversão atualizadas. O programa permite aos usuários selecionar conversões predefinidas ou inserir suas próprias combinações de moedas para obter a taxa de câmbio e converter valores. Além disso, o programa registra cada conversão realizada em um arquivo `.txt`, incluindo a data e hora da conversão.
 
